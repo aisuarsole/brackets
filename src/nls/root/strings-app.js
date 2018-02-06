@@ -33,7 +33,7 @@ define({
     "LOCALE_EL"                                 : "Ελληνικά",
     "LOCALE_EN"                                 : "English (US)",
     "LOCALE_EN_GB"                              : "English (UK)",
-    "LOCALE_ES"                                 : "español",
+    "LOCALE_ES"                                 : "Español",
     "LOCALE_FA_IR"                              : "فارسی",
     "LOCALE_FI"                                 : "suomi",
     "LOCALE_FR"                                 : "français",
